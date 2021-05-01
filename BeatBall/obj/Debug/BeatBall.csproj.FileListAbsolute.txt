@@ -1,0 +1,278 @@
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\bin\Debug\BeatBall.exe.config
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\bin\Debug\BeatBall.exe
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\bin\Debug\BeatBall.pdb
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+C:\Users\win7\Desktop\BeatBall-20180201T175849Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\BeatBall-20180201T175849Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+C:\Users\win7\Desktop\BeatBall-20180201T175849Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\BeatBall-20180201T175849Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\BeatBall-20180201T175849Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\bin\Debug\BeatBall.exe.config
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\bin\Debug\BeatBall.exe
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\bin\Debug\BeatBall.pdb
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+C:\Users\רפאל\Downloads\BeatBall-20180330T225054Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+C:\Users\רפאל\Downloads\BeatBall-20180330T225054Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+C:\Users\רפאל\Downloads\BeatBall-20180330T225054Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+C:\Users\רפאל\Downloads\BeatBall-20180330T225054Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+C:\Users\רפאל\Downloads\BeatBall-20180330T225054Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+C:\Users\רפאל\Downloads\BeatBall-20180330T225054Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+C:\Users\רפאל\Downloads\BeatBall-20180330T225054Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+C:\Users\רפאל\Downloads\BeatBall-20180330T225054Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+C:\Users\רפאל\Downloads\BeatBall-20180330T225054Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+C:\Users\רפאל\Desktop\BeatBall-20180409T070814Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+C:\Users\רפאל\Desktop\BeatBall-20180409T070814Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+C:\Users\רפאל\Desktop\BeatBall-20180409T070814Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Gudie.resources
+C:\Users\רפאל\Desktop\BeatBall-20180409T070814Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+C:\Users\רפאל\Desktop\BeatBall-20180409T070814Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+C:\Users\רפאל\Desktop\BeatBall-20180409T070814Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+C:\Users\רפאל\Desktop\BeatBall-20180409T070814Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Setting.resources
+C:\Users\רפאל\Desktop\BeatBall-20180409T070814Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+C:\Users\רפאל\Desktop\BeatBall-20180409T070814Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+C:\Users\רפאל\Desktop\BeatBall-20180409T070814Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+C:\Users\רפאל\Desktop\BeatBall-20180409T070814Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+C:\Users\רפאל\Desktop\BeatBall-20180409T070814Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.exe.config
+C:\Users\רפאל\Desktop\BeatBall-20180409T070814Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.exe
+C:\Users\רפאל\Desktop\BeatBall-20180409T070814Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.pdb
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Setting.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\bin\Debug\BeatBall.exe.config
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\bin\Debug\BeatBall.exe
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\bin\Debug\BeatBall.pdb
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\obj\Debug\BeatBall.Setting.resources
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\obj\Debug\BeatBall.Paddle.resources
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\obj\Debug\BeatBall.About.resources
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\obj\Debug\BeatBall.HighScore.resources
+C:\Users\win7\Desktop\BeatBall\BeatBall\BeatBall\obj\Debug\BeatBall.Guide.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.About.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Guide.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.HighScore.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Paddle.resources
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\bin\Debug\BeatBall.exe.config
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\bin\Debug\BeatBall.exe
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\bin\Debug\BeatBall.pdb
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.About.resources
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Guide.resources
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.HighScore.resources
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Paddle.resources
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Setting.resources
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.About.resources
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Guide.resources
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.HighScore.resources
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Paddle.resources
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Setting.resources
+G:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.exe.config
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.exe
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.pdb
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.About.resources
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Guide.resources
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.HighScore.resources
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Paddle.resources
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Setting.resources
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+C:\Users\win7\Desktop\BeatBall-20180416T142625Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.InputForm.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.InputForm.resources
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.exe.config
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.exe
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.pdb
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.About.resources
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Guide.resources
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.HighScore.resources
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.InputForm.resources
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Paddle.resources
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Setting.resources
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+C:\Users\win7\Desktop\BeatBall-20180416T203142Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\bin\Debug\BeatBall.exe.config
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\bin\Debug\BeatBall.exe
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\bin\Debug\BeatBall.pdb
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.About.resources
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Guide.resources
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.HighScore.resources
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.InputForm.resources
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Paddle.resources
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Setting.resources
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+C:\Users\achi\Downloads\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.exe.config
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.exe
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.pdb
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.About.resources
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Guide.resources
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.HighScore.resources
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.InputForm.resources
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Paddle.resources
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Setting.resources
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+C:\Users\win7\Desktop\BeatBall-20180421T175623Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+I:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.InputForm.resources
+C:\Users\omer_\Desktop\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+C:\Users\omer_\Desktop\BeatBall\BeatBall\obj\Debug\BeatBall.About.resources
+C:\Users\omer_\Desktop\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+C:\Users\omer_\Desktop\BeatBall\BeatBall\obj\Debug\BeatBall.Guide.resources
+C:\Users\omer_\Desktop\BeatBall\BeatBall\obj\Debug\BeatBall.HighScore.resources
+C:\Users\omer_\Desktop\BeatBall\BeatBall\obj\Debug\BeatBall.InputForm.resources
+C:\Users\omer_\Desktop\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+C:\Users\omer_\Desktop\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+C:\Users\omer_\Desktop\BeatBall\BeatBall\obj\Debug\BeatBall.Paddle.resources
+C:\Users\omer_\Desktop\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+C:\Users\omer_\Desktop\BeatBall\BeatBall\obj\Debug\BeatBall.Setting.resources
+C:\Users\omer_\Desktop\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+C:\Users\omer_\Desktop\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+C:\Users\omer_\Desktop\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+C:\Users\omer_\Desktop\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+C:\Users\omer_\Desktop\BeatBall\BeatBall\bin\Debug\BeatBall.exe.config
+C:\Users\omer_\Desktop\BeatBall\BeatBall\bin\Debug\BeatBall.exe
+C:\Users\omer_\Desktop\BeatBall\BeatBall\bin\Debug\BeatBall.pdb
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\bin\Debug\BeatBall.exe.config
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\bin\Debug\BeatBall.exe
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\bin\Debug\BeatBall.pdb
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.About.resources
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Guide.resources
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.HighScore.resources
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.InputForm.resources
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Paddle.resources
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.Setting.resources
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+E:\לימודים\BeatBall\שלב ד - מימוש\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.exe.config
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.exe
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.pdb
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.About.resources
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Guide.resources
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.HighScore.resources
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.InputForm.resources
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Paddle.resources
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Setting.resources
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+C:\Users\win7\Desktop\BeatBall-20180425T171713Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\bin\Debug\BeatBall.exe.config
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\bin\Debug\BeatBall.exe
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\bin\Debug\BeatBall.pdb
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\obj\Debug\BeatBall.About.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\obj\Debug\BeatBall.Guide.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\obj\Debug\BeatBall.HighScore.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\obj\Debug\BeatBall.InputForm.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\obj\Debug\BeatBall.Paddle.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\obj\Debug\BeatBall.Setting.resources
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+C:\Users\omer_\Google Drive\BeatBall\שלב ד - מימוש\חדש\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.exe.config
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.exe
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.pdb
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.About.resources
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Guide.resources
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.HighScore.resources
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.InputForm.resources
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Paddle.resources
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Setting.resources
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+C:\Users\win7\Desktop\BeatBall-20180427T105602Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.exe.config
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.exe
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\bin\Debug\BeatBall.pdb
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csprojResolveAssemblyReference.cache
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.About.resources
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Ball.resources
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Guide.resources
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.HighScore.resources
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.InputForm.resources
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.LevelForm.resources
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.MainForm.resources
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Paddle.resources
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Properties.Resources.resources
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.Setting.resources
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.GenerateResource.Cache
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.csproj.CoreCompileInputs.cache
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.exe
+C:\Users\win7\Desktop\BeatBall-20180429T181924Z-001\BeatBall\BeatBall\obj\Debug\BeatBall.pdb
